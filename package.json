@@ -1,0 +1,16 @@
+{
+  "name": "kayernyc",
+  "version": "1.0.0",
+  "description": "I'm a software engineer working in and around New York and I'm interested in languages, such as French and German but also 漢字 (the written form).",
+  "main": "update-readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^19.0.13",
+    "dotenv": "^16.3.1"
+  }
+}
